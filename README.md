@@ -32,13 +32,6 @@ Database       → MongoDB | PostgreSQL | Firebase
 Tools          → Git | Docker | Linux  
 ```
 ---
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrayanBhattacharya&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrayanBhattacharya&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect
 
