@@ -15,7 +15,7 @@
 
 I build backend systems and intelligent applications that are fast, scalable, and actually useful.
 
-- ⚙️ Focused on backend development with Spring Boot, FastAPI, and Node.js  
+- ⚙️ Focused on backend development with Spring Boot, FastAPI, and Django  
 - 🧠 Interested in Machine Learning, real-time systems, and system design  
 - ☁️ Exploring cloud technologies and scalable architectures  
 - 🔍 Always trying to understand how things work under the hood  
@@ -26,8 +26,8 @@ I build backend systems and intelligent applications that are fast, scalable, an
 
 ```txt
 Languages      → Java | Python | JavaScript   
-Backend        → Spring Boot | FastAPI | Node.js | Express  
-Frontend       → React | Tailwind  
+Backend        → Spring Boot | FastAPI | Django   
+Frontend       → React | Tailwind | Next.js  
 Database       → MongoDB | PostgreSQL | Firebase  
 Tools          → Git | Docker | Linux  
 ```
