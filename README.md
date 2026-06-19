@@ -5,9 +5,9 @@
 > status: building cool things & breaking fewer things (hopefully)
 ```
 
-🎯 **Backend & AI Developer**
-⚙️ Spring Boot • Django • FastAPI • Node.js • React
-🧠 Machine Learning • IoT Systems • Real-time Apps
+🎯 **Backend & AI Developer**  
+⚙️ Spring Boot • Django • FastAPI • Next.js • PostgreSQL  
+🧠 Machine Learning • Full-Stack Systems • DevOps  
 
 ---
 
