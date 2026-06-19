@@ -6,7 +6,7 @@
 ```
 
 🎯 **Backend & AI Developer**
-⚙️ Spring Boot • FastAPI • Node.js • React
+⚙️ Spring Boot • Django • FastAPI • Node.js • React
 🧠 Machine Learning • IoT Systems • Real-time Apps
 
 ---
